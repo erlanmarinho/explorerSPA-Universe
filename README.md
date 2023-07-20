@@ -45,7 +45,7 @@ Você precisará do [Node.js](https://nodejs.org) instalado no seu computador pa
 ```bash
 1º git clone git@github.com:erlanmarinho/explorerSPA-Universe.git
 
-2º git install
+2º npm install
 
 3º npm start
 ```
