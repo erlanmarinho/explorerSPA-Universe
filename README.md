@@ -39,6 +39,17 @@ As praticas baseadas em SPA envolvem codificar menos no server-side e mais no cl
 
 - [Acesse o projeto finalizado, online](https://erlanmarinho.github.io/explorerDesafioForm2/)
 
+## Instalação
+Você precisará do [Node.js](https://nodejs.org) instalado no seu computador para criar este aplicativo.
+
+```bash
+1º git clone git@github.com:erlanmarinho/explorerSPA-Universe.git
+
+2º git install
+
+3º npm start
+```
+
 
 
 ##  Licença
