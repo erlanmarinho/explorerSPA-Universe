@@ -7,11 +7,16 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
 
   color: white;
   text-decoration: none;
 
   font-family: 'Roboto', sans-serif;
+}
+
+body {
+  font-size: 1.6rem;
 }
 
 
